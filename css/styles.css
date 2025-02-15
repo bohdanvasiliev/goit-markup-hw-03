@@ -150,6 +150,7 @@ button {
 }
 .hero-button {
     font-family: inherit;
+    border: none;
   
 
 }
