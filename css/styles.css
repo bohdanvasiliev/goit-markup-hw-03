@@ -15,7 +15,9 @@ ul {
     margin: 0;
     padding-left: 0;
 }
-
+.imag {
+    display: block;
+}
 
 .header {
     border-bottom: 1px solid #e7e9fc;
